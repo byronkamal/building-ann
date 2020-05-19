@@ -2,7 +2,7 @@
 
 Construindo sua primeira rede neural usando Keras, Theano e Tensorflow
 Parte da matéria de DeepLearning da escola de Engenharia de Software da UnB
-
+### [Material para essa aula](https://docs.google.com/presentation/d/1i-VfqHon2iT7VaayOMizp2_RocO_DhiR3TrKf6HNClQ/edit#slide=id.g35f391192_00)
 ## Usage
 
 ### jupyter-notebook
